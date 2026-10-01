@@ -1,24 +1,42 @@
-## 👋 Hi, I'm Umang Bajracharya
+# 👋 Hi, I'm Umang Bajracharya
 
-🎓 **BCA Student** | 💻 Aspiring Developer
+### 💻 Computer Application Student & Aspiring Software Developer
 
-I'm currently pursuing a **Bachelor in Computer Application (BCA)** and building my foundation in software development. I'm passionate about learning new technologies, improving my coding fundamentals, and exploring web development.
+🎓 Currently studying Bachelor in Computer Application and building my foundation in software development.
 
-### 🛠️ Skills
+🌱 Interested in **Java, Web Development, JavaScript, and the MERN Stack**.
 
-* ☕ Java — OOP fundamentals
-* 🌐 HTML, CSS & JavaScript
-* 💻 Basic Web Development
-* 📊 MS Word, PowerPoint & Excel
-* 🎨 Canva
+🚀 I enjoy learning new technologies, strengthening my programming fundamentals, and building projects along the way.
 
-### 🚀 Currently Learning
+### 🔗 Connect with me
 
-* Strengthening my programming fundamentals
-* Improving my Java & OOP skills
-* Exploring web development
+📧 **Email:** [umangbajracharya41@gmail.com](mailto:umangbajracharya41@gmail.com)
 
-### 📫 Connect With Me
+📍 **Lalitpur, Nepal**
 
-* GitHub: [@Umang-Bajra](https://github.com/Umang-Bajra)
-* 📧 [umangbajracharya41@gmail.com](mailto:umangbajracharya41@gmail.com)
+### 🛠️ Languages & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,git,github" />
+</p>
+
+### 🚀 What I'm Learning
+
+→ Java & Object-Oriented Programming
+→ Web Development
+→ JavaScript
+→ MERN Stack
+→ Building practical projects
+
+### 🍽️ Featured Project
+
+**Food Ordering System**
+
+A project focused on digitizing traditional food menus and improving the ordering process, including nutritional information such as estimated calories and protein.
+
+**Built with:** HTML • CSS • JavaScript
+
+---
+
+✨ *Learning • Building • Improving*
+
